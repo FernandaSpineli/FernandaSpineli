@@ -3,7 +3,10 @@
 
 
 
-- 🌱 I’m currently learning Java and Rest API.
+- 🌱 I’m currently learning Java and Rest API. ![image](https://user-images.githubusercontent.com/85409876/187084596-1c699a9e-1d9a-42fa-9c0c-a5386a9cec97.png" alt="image" style="zoom:12%;" />
+
+)
+
 - :rocket: Searching for an opportunite to start my career
 - 📫 How to reach me:  fernandaspinx@gmail.com
 - ::link: Linkedin profile: www.linkedin.com/in/fernanda-spineli-spin
