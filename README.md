@@ -1,25 +1,68 @@
-### Hi there! Welcome to my profile! <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="image" width="40" height="40" />
-## I'm Fernanda Anschau back-end developer.     :coffee: 
+## Olá! Eu sou a Nanda 👋
 
-- 🌱 I’m currently learning PHP, Laravel and AWS.  
+### 💻 Backend Software Engineer apaixonada por transformar problemas complexos em soluções simples, eficientes e escaláveis.
 
-- 📫 How to reach me:  fernandasanschau@gmail.com
- 
-- ::link: My Linkedin profile: www.linkedin.com/in/fernanda-spineli
+Atuo no desenvolvimento backend, com experiência em APIs REST, integrações entre sistemas, bancos de dados e otimização de aplicações.
 
-## ***My Tech Stack :***  
+### 🚀 Sobre mim
+    • 💼 Experiência profissional com PHP, Laravel, C# e .NET 6
+    • 🔗 Desenvolvimento e integração de APIs REST
+    • 🗄️ Experiência com bancos de dados relacionais e NoSQL
+    • ☁️ Experiência com AWS e integrações entre plataformas
+    • 🧩 Interesse em arquitetura de software, escalabilidade e performance
+    • 🤖 Estudando Inteligência Artificial, Laravel 13 e sustentabilidade 
+    • 🎓 Cursando Engenharia de Software
+    • 🌱 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
+    
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-          
-          
-          
-          
-          
+## 🛠️ Tecnologias e Ferramentas
 
-## ***More about me :***
+### Backend
 
-In my free time I like to ***read books 📚 and play 🃏 🎮***
+<p> <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="45" alt="PHP"> <img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" width="45" alt="Laravel"> <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="45" alt="C#"> <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="45" alt=".NET"> <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" width="45" alt="Python"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="45" alt="FastAPI"> <img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" width="45" alt="Java"> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="45" alt="Spring">  </p>
 
-***Also, I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!***
+### Bancos de dados
 
+<p> <img src="https://img.icons8.com/?size=100&id=59927&format=png&color=000000" width="45" alt="MySQL"> <img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" width="45" alt="PostgreSQL"> <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" width="45" alt="MongoDB"> <img src="https://img.icons8.com/?size=100&id=69475&format=png&color=000000" width="45" alt="Oracle"> <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45" alt="SQL Server"> </p>
+
+### DevOps & Cloud
+
+<p> <img src="https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000" width="45" alt="Docker"> <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" width="45" alt="Git"> <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="45" alt="AWS"> </p>
+
+## 📌 Projetos
+
+### 📍 TesteCEP
+
+API desenvolvida em **PHP** para consulta de CEP, explorando desenvolvimento de APIs e integração com serviços externos.
+
+🔗 [Ver projeto](https://github.com/FernandaSpineli/TesteCEP)
+
+### 📚 SocialBooks API
+
+API desenvolvida em **Java**, com foco na aplicação de conceitos de desenvolvimento backend e construção de APIs.
+
+🔗 [Ver projeto](https://github.com/FernandaSpineli/socialbooks-API)
+
+### 🛍️ E-commerce — LuizaCode
+
+Projeto desenvolvido durante o **bootcamp LuizaCode**, em equipe, utilizando **Python, FastAPI e MongoDB**.
+
+O desafio consistia em desenvolver uma API para um e-commerce voltado para gestantes e mamães, com produtos de cama, mesa e banho.
+
+🔗 [Ver projeto](https://github.com/FernandaSpineli/projeto_final_luiza_code)
+
+
+
+## 📚 Atualmente estudando
+- 🏗️ Arquitetura de Software
+- 🤖 Inteligência Artificial
+- ⚙️ Automação
+- 🚀 Desenvolvimento de APIs e sistemas escaláveis
+- 📊 Otimização e performance de aplicações
+- ![Ícone](https://img.icons8.com/?size=25&id=E7pRLnx4cQqJ&format=png&color=000000) Sustentalibidade
+
+## 🎯 Objetivo
+
+Continuar evoluindo como Backend Software Engineer, contribuindo para projetos que envolvam desafios técnicos reais, arquitetura, integrações e desenvolvimento de soluções capazes de gerar impacto para usuários e negócios.
+
+💬 "Transformando problemas complexos em soluções simples, eficientes e bem estruturadas."
